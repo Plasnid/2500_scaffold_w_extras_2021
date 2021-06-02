@@ -38,11 +38,6 @@ main>section:nth-child(1){
     padding-top: 69px;
 }
 
-nav a:hover, .active{
-    background: #D3D3D3;
-    color: white;
-}
-
 .revealElement, #intro h1, #intro p{
     opacity:0;
     margin-left: 200px;

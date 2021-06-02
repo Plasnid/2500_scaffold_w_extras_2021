@@ -43,6 +43,8 @@ $(window).scroll(function(){
         }
     });
 });
+
+// * animating in the intro page
 $("#intro h1").delay(500).animate(
     {opacity:1, marginLeft:0},
     1000,
